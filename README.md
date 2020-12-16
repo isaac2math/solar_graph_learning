@@ -16,6 +16,5 @@
 ## the detailed paper and procedure can be found at .
 > the results are included in the following files
 > - *costcom.py, simulator.py and solar.py* are the solar package
-> - *Data2010.csv* is the variables that survived iterated ISIS learning algorihtm
 > - *Houseprice_2010_linear.ipynb, Houseprice_2010_log.ipynb* are the variable selection result of solar compared to lasso and elastic net.
 > - *bnlearn_structure_test.ipynb* are the instrument selection result based on probablistic graph learning
